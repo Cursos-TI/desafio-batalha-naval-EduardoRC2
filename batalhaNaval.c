@@ -82,7 +82,7 @@ void inicializarTabuleiro(int tabuleiro[TAMANHO_TABULEIRO][TAMANHO_TABULEIRO]) {
 
 
 void exibirTabuleiro(int tabuleiro[TAMANHO_TABULEIRO][TAMANHO_TABULEIRO]) {
-    s
+    
     printf("   "); 
     for (int j = 0; j < TAMANHO_TABULEIRO; j++) {
         printf("%2d ", j); 
